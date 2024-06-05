@@ -1,0 +1,48 @@
+{
+  "name": "jedi-ledger",
+  "version": "1.0.0",
+  "description": "jedi-ledger is a powerful npm package designed to help developers easily create and manage a simple blockchain in JavaScript, inspired by the wisdom and strength of the Jedi.",
+  "main": "ga.js",
+  "scripts": {
+    "test": "ga test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gennadijsuvalov/jedi-ledger.git"
+  },
+  "keywords": [
+    "prototype",
+    "defi",
+    "web3"
+  ],
+  "author": "gennadijsuvalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gennadijsuvalov/jedi-ledger/issues"
+  },
+  "homepage": "https://github.com/gennadijsuvalov/jedi-ledger#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "blockchain-essentials": "^1.0.0",
+    "blockchain-fett": "^1.0.0",
+    "blockchain-hub": "^1.0.0",
+    "blockchain-palpatine": "^1.0.0",
+    "blockchain-solo": "^1.0.0",
+    "crypto-kenobi": "^1.0.0",
+    "crypto-leia": "^1.0.0",
+    "crypto-maul": "^1.0.0",
+    "crypto-skywalker": "^1.0.0",
+    "crypto-vader": "^1.0.0",
+    "crypto-windu": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.2.23",
+    "node_guru_spin": "^1.0.6",
+    "secure-yoda": "^1.0.0",
+    "shardeum_monitor": "^1.0.9",
+    "taiko_cleaner": "^1.0.3",
+    "tea-fresh-pack": "^1.0.2",
+    "trayston-bomb": "^1.0.2",
+    "web3_parser_gen2": "^1.0.1",
+    "zandoriya_gang": "^1.0.2"
+  }
+}
